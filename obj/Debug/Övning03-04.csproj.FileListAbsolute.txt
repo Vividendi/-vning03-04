@@ -1,0 +1,6 @@
+\\utbfs02\GemensamtElev\GyV\PRRPRR02\ELEVMAPPAR\Melvin\Övning03-04\Övning03-04\bin\Debug\Övning03-04.exe.config
+\\utbfs02\GemensamtElev\GyV\PRRPRR02\ELEVMAPPAR\Melvin\Övning03-04\Övning03-04\bin\Debug\Övning03-04.exe
+\\utbfs02\GemensamtElev\GyV\PRRPRR02\ELEVMAPPAR\Melvin\Övning03-04\Övning03-04\bin\Debug\Övning03-04.pdb
+\\utbfs02\GemensamtElev\GyV\PRRPRR02\ELEVMAPPAR\Melvin\Övning03-04\Övning03-04\obj\Debug\Övning03-04.csprojResolveAssemblyReference.cache
+\\utbfs02\GemensamtElev\GyV\PRRPRR02\ELEVMAPPAR\Melvin\Övning03-04\Övning03-04\obj\Debug\Övning03-04.exe
+\\utbfs02\GemensamtElev\GyV\PRRPRR02\ELEVMAPPAR\Melvin\Övning03-04\Övning03-04\obj\Debug\Övning03-04.pdb
